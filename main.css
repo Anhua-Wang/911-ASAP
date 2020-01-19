@@ -1,0 +1,8 @@
+body {
+	background-image: url("https://philippineslifestyle.com/wp-content/uploads/Ambulance-crashed-into-creek-2-dead-3-injured.jpg");
+	background-size: cover;
+}
+.jumbotron {
+   background: rgba(255, 255, 255, 0.1);
+   color: white;
+}
